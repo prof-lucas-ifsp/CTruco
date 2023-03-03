@@ -20,6 +20,7 @@
         <module>bot-spi</module>
         <module>bot-impl</module>
         <module>web</module>
+        <module>bot-treacherous</module>
     </modules>
 
     <parent>
